@@ -1,0 +1,18 @@
+body {
+  background-color: #ccc;
+}
+
+input, textarea {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input {
+  height: 20px;
+  
+}
+
+textarea {
+  height: 60px;
+  width: 250px;
+}
